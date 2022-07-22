@@ -1,4 +1,4 @@
-*It's a very simple setup!*
+# It's a very simple setup!
 
 Adjust Dockerfile with specific ports etc.
 
